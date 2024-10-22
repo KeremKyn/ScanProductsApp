@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "311846868311",
+    "project_id": "scanproducts-c672f",
+    "storage_bucket": "scanproducts-c672f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311846868311:android:903739fa4211151ae9da12",
+        "android_client_info": {
+          "package_name": "com.example.scan_products_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjD5BhpX7QXGi2kdz0iLLfcNY4hTUU6hc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
